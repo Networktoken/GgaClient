@@ -3,30 +3,30 @@ The Gongga blockchain welcomes global computer enthusiasts to participate in the
 
 # Using
 
-You can [download the latest release](https://gongga.org/#peers) for your operating system or build it yourself (see below).
+You can [download the latest release](https://gongga.org/#peers) for your operating system or build it by yourself (as below).
 
 # Installation
 
- Windwos
+ Windows
  
-   Normally after several minutes the GGA token will be sent to you account, If the GGA awarding is not start, it might because of some C++ environment is not fulfill, you can try run this program to fix it: https://www.microsoft.com/zh-cn/download/details.aspx?id=48145  
+   Normally after several minutes the GGA token will be sent to you account, If the GGA awarding is not start, it might because of some C++ environment is not fulfill, you can try run to this program to fix it: https://www.microsoft.com/zh-cn/download/details.aspx?id=48145  
  
 
 # Config folder
-The data folder for Mist depends on your operating system:
+The data folder for Gongga depends on your operating system:
 
 - Windows %APPDATA%\GonggaPeer
 - macOS ~/Library/Application\ Support/GonggaPeer
 
 # Development
 
-To run gonnga in development you need:
+To run Gongga in development you need:
 
 - Node.js v8.x (use the preferred installation method for your OS)
 
 # Initialization 
 
-Now you're ready to initialize Mist for development:
+Now you're ready to initialize Gongga for development:
 ```bash
 $ git clone https://github.com/jimshanghai/GonggaClient.git
 $ cd GonggaClient
@@ -41,7 +41,7 @@ Please select the download package according to the system version, unzip it to 
 
 # Generate packages
 
-platform
+Platform
 To build binaries for specific platforms (default: all available) use the following flags:
 ```bash
 $ npm run package:win      # win32
