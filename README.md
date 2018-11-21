@@ -10,7 +10,7 @@ You can [download the latest release](https://gongga.org/#peers) for your operat
  Windwos
  
    Normally after several minutes the GGA token will be sent to you account, If the GGA awarding is not start, it might because of some C++ environment is not fulfill, you can try run this program to fix it: https://www.microsoft.com/zh-cn/download/details.aspx?id=48145  
-
+ 
 
 # Config folder
 The data folder for Mist depends on your operating system:
@@ -27,15 +27,12 @@ To run gonnga in development you need:
 # Initialization 
 
 Now you're ready to initialize Mist for development:
-
+```bash
 $ git clone https://github.com/jimshanghai/GonggaClient.git
-
 $ cd GonggaClient
-
 $ npm install
-
 $ npm start
-
+```
 ### Note:
 
 [win32](https://gongga.org/lib/win.zip)  [win64](https://gongga.org/lib/win64.zip)    [mac](https://gongga.org/lib/mac.zip)
@@ -46,13 +43,11 @@ Please select the download package according to the system version, unzip it to 
 
 platform
 To build binaries for specific platforms (default: all available) use the following flags:
-
+```bash
 $ npm run package:win      # win32
-
 $ npm run package:win64    # win64
-
 $ npm run package:max      # mac
-
+```
 
 ### Note:
 [win32](https://gongga.org/lib/win.zip)  [win64](https://gongga.org/lib/win64.zip)    [mac](https://gongga.org/lib/mac.zip)
