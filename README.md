@@ -8,8 +8,9 @@ You can [download the latest release](https://gongga.org/#peers) for your operat
 #Installation
 
  Windwos
- 
-  ``` Normally after several minutes the GGA token will be sent to you account, If the GGA awarding is not start, it might because of some C++ environment is not fulfill, you can try run this program to fix it: https://www.microsoft.com/zh-cn/download/details.aspx?id=48145  ```
+  ```bash
+   Normally after several minutes the GGA token will be sent to you account, If the GGA awarding is not start, it might because of some C++ environment is not fulfill, you can try run this program to fix it: https://www.microsoft.com/zh-cn/download/details.aspx?id=48145  
+```
 
 #Config folder
 The data folder for Mist depends on your operating system:
