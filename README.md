@@ -35,7 +35,7 @@ $ npm start
 ```
 ### Note:
 
-[win32](https://gongga.org/lib/win.zip)  [win64](https://gongga.org/lib/win64.zip)    [mac](https://gongga.org/lib/mac.zip)
+#### Dependencies: [win32](https://gongga.org/lib/win.zip) | [win64](https://gongga.org/lib/win64.zip) |   [mac](https://gongga.org/lib/mac.zip)
 
 Please select the download package according to the system version, unzip it to GonggaClient/exe/ and execute npm start.
 
@@ -50,6 +50,6 @@ $ npm run package:max      # mac
 ```
 
 ### Note:
-[win32](https://gongga.org/lib/win.zip)  [win64](https://gongga.org/lib/win64.zip)    [mac](https://gongga.org/lib/mac.zip)
+#### Dependencies: [win32](https://gongga.org/lib/win.zip) | [win64](https://gongga.org/lib/win64.zip) |   [mac](https://gongga.org/lib/mac.zip)
 
 Please select the download package according to the generated system version, unzip it to GonggaClient/exe/ and execute generating package command.
