@@ -29,8 +29,11 @@ To run gonnga in development you need:
 Now you're ready to initialize Mist for development:
 
 $ git clone https://github.com/jimshanghai/GonggaClient.git
+
 $ cd GonggaClient
+
 $ npm install
+
 $ npm start
 
 ### Note:
@@ -45,7 +48,9 @@ platform
 To build binaries for specific platforms (default: all available) use the following flags:
 
 $ npm run package:win      # win32
+
 $ npm run package:win64    # win64
+
 $ npm run package:max      # mac
 
 
